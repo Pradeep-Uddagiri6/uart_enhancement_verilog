@@ -1,0 +1,10 @@
+# Simulation artifacts
+**/modelsim.ini
+**/transcript
+**/*.wlf
+**/*.vcd
+**/*.swp
+**/work/
+
+# Backup files
+*~
